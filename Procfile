@@ -1,2 +1,2 @@
-export CORSANYWHERE_RATELIMIT=0 1 /(.*\.)?animaco\.net/
+export CORSANYWHERE_RATELIMIT=0 1
 web: node server.js
