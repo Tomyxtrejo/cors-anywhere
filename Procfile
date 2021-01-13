@@ -1,2 +1,2 @@
-export CORSANYWHERE_RATELIMIT=0 1
+export CORSANYWHERE_RATELIMIT='0 1'
 web: node server.js
